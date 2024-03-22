@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielAmadeus, I'm an IT Student.
-- 👀 I’m interested in Website Development and Database Administration.
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP and tons of other languages (Java, C++, C#, Python, etc..)
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, Javascript, PHP and utilizing frameworks (React, Bootstrap, CodeIgniter)
 - 💞️ I’m looking to collaborate with people in here.
 - 📫 How to reach me ---> xbladerzero@outlook.com || xbladerzero@gmail.com
 
